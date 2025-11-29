@@ -2,8 +2,6 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-.build
-.swiftpm
 
 # Icon must end with two \r
 Icon
