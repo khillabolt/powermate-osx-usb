@@ -54,3 +54,6 @@ DerivedData/
 ## Gcc Patch
 /*.gcno
 
+## Build
+build
+PowerMate.app

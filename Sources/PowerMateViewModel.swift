@@ -20,7 +20,7 @@ class PowerMateViewModel {
     }
     
     var icon: String {
-        return driver.isConnected ? "dial.max.fill" : "dial.min"
+        return driver.isConnected ? "power.circle.fill" : "power.circle"
     }
     
     func quit() {

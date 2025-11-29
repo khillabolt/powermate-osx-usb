@@ -4,6 +4,7 @@ import SwiftUI
 struct PowerMateApp: App {
     @State private var viewModel = PowerMateViewModel()
     
+    
     var body: some Scene {
         MenuBarExtra(viewModel.icon, systemImage: viewModel.icon) {
             Text("PowerMate Driver")
